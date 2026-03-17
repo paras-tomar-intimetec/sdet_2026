@@ -5,7 +5,7 @@ This repository contains structured assignments for SDET training.
 
 ## -> Week 1 ->
 
-## -> Git - 
+## -> Git Assignment 
 
 ## Topics Covered
 
