@@ -35,8 +35,8 @@ Password should enforce complexity rules
 
 **Actual Result:**
 Weak password is accepted
-
 Screenshot:
+
 ![BUG-001](bug_screenshots/BUG-001.png) 
 
 ## BUG_002 – Missing Validation in Billing Address
@@ -60,8 +60,8 @@ Proper validation for each field
 
 **Actual Result:**
 System accepts invalid inputs
-
 Screenshot:
+
 ![BUG-002](bug_screenshots/BUG-002.png)
 
 ## BUG_003 – Missing “Add to Cart” for Camera Products
@@ -83,8 +83,8 @@ Each product should have Add to Cart or Buy option
 
 **Actual Result:**
 No purchase option available
-
 Screenshot:
+
 ![BUG-003](bug_screenshots/BUG-003.png)
 
 ## BUG_004 – Out-of-Stock Not Displayed Before Action
@@ -106,8 +106,8 @@ Out-of-stock status should be displayed before user action
 
 **Actual Result:**
 Message shown only after clicking
-
 Screenshot:
+
 ![BUG-004](bug_screenshots/BUG-004.png)
 
 ## BUG_005 – Newsletter Field Lacks Input Guidance
@@ -130,8 +130,8 @@ Field should show placeholder like “Enter your email”
 
 **Actual Result:**
 No input guidance provided
-
 Screenshot:
+
 ![BUG-005](bug_screenshots/BUG-005.png)
 
 ## BUG_006 – Misleading Newsletter Success Message
@@ -155,8 +155,8 @@ Email should be received OR message should reflect demo behavior
 
 **Actual Result:**
 Message shown but no email received
-
 Screenshot:
+
 ![BUG-006](bug_screenshots/BUG-006.png)
 
 ## BUG_007 – Product Length Field Accepts Unrealistic Values
@@ -179,8 +179,8 @@ Input should be restricted within valid range
 
 **Actual Result:**
 Product added with invalid value
-
 Screenshot:
+
 ![BUG-007](bug_screenshots/BUG-007.png)
 
 ## BUG_008 – Missing Wishlist Button in Product Detail
@@ -202,8 +202,8 @@ Wishlist option should be present
 
 **Actual Result:**
 Wishlist option missing
-
 Screenshot:
+
 ![BUG-008](bug_screenshots/BUG-008.png)
 
 ## BUG_009 – UI/UX Issue in Cart Removal Flow
@@ -226,8 +226,8 @@ Item removal should be intuitive or clearly guided
 
 **Actual Result:**
 Requires additional action without clear indication
-
 Screenshot:
+
 ![BUG-009](bug_screenshots/BUG-009.png)
 
 ## BUG_010 – Login Error Message Reveals Information
@@ -251,8 +251,8 @@ Same generic error message should be displayed
 
 **Actual Result:**
 Different messages are shown
-
 Screenshot:
+
 ![BUG-010](bug_screenshots/BUG-010.png)
 
 #  Final Notes
