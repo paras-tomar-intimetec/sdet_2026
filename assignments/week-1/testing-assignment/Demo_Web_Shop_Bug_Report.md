@@ -35,6 +35,7 @@ Password should enforce complexity rules
 
 **Actual Result:**
 Weak password is accepted
+
 Screenshot:
 
 ![BUG-001](bug_screenshots/BUG-001.png) 
@@ -60,6 +61,7 @@ Proper validation for each field
 
 **Actual Result:**
 System accepts invalid inputs
+
 Screenshot:
 
 ![BUG-002](bug_screenshots/BUG-002.png)
@@ -83,6 +85,7 @@ Each product should have Add to Cart or Buy option
 
 **Actual Result:**
 No purchase option available
+
 Screenshot:
 
 ![BUG-003](bug_screenshots/BUG-003.png)
@@ -106,6 +109,7 @@ Out-of-stock status should be displayed before user action
 
 **Actual Result:**
 Message shown only after clicking
+
 Screenshot:
 
 ![BUG-004](bug_screenshots/BUG-004.png)
@@ -130,6 +134,7 @@ Field should show placeholder like “Enter your email”
 
 **Actual Result:**
 No input guidance provided
+
 Screenshot:
 
 ![BUG-005](bug_screenshots/BUG-005.png)
@@ -154,7 +159,8 @@ System shows email sent message without actual email delivery.
 Email should be received OR message should reflect demo behavior
 
 **Actual Result:**
-Message shown but no email received
+Message shown but no email 
+
 Screenshot:
 
 ![BUG-006](bug_screenshots/BUG-006.png)
@@ -179,6 +185,7 @@ Input should be restricted within valid range
 
 **Actual Result:**
 Product added with invalid value
+
 Screenshot:
 
 ![BUG-007](bug_screenshots/BUG-007.png)
@@ -202,6 +209,7 @@ Wishlist option should be present
 
 **Actual Result:**
 Wishlist option missing
+
 Screenshot:
 
 ![BUG-008](bug_screenshots/BUG-008.png)
@@ -226,6 +234,7 @@ Item removal should be intuitive or clearly guided
 
 **Actual Result:**
 Requires additional action without clear indication
+
 Screenshot:
 
 ![BUG-009](bug_screenshots/BUG-009.png)
@@ -251,6 +260,7 @@ Same generic error message should be displayed
 
 **Actual Result:**
 Different messages are shown
+
 Screenshot:
 
 ![BUG-010](bug_screenshots/BUG-010.png)
