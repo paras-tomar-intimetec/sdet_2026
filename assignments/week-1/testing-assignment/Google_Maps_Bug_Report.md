@@ -1,5 +1,19 @@
 # GOOGLE MAPS - BUG REPORT DOCUMENT
 
+##  Project: Google Maps App Testing
+
+##  Tester: Paras Tomar
+
+##  Environment: Mobile Application (Android-based)
+
+##  Testing Type: Manual Testing
+
+#  Bug Summary
+
+* Total Bugs Identified: **5**
+
+#  Bug Details
+
 ## BUG_001
 
 **Title:** Offline search fails for major landmark within downloaded region  
