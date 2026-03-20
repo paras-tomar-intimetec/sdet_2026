@@ -21,7 +21,7 @@ This repository contains structured assignments for SDET training.
 - Hotfix Operation
 - Git tagging
 
-#  Testing Assignment – Demo Web Shop
+#  -> Testing Assignment – Demo Web Shop
 This repository contains all testing artifacts created as part of **Week-1 Testing Assignment**.
 
 ##  Project Overview
@@ -120,7 +120,11 @@ Security test cases were mapped to **OWASP Mobile Top 10** categories:
 * M3: Insecure Authentication / Session Management
 * M5: Insufficient Input Validation
 
+##  Limitations
 
+- Testing performed without access to backend logs  
+- Security testing limited to black-box validation  
+- GPS accuracy depends on device/environment conditions  
 
 
 
