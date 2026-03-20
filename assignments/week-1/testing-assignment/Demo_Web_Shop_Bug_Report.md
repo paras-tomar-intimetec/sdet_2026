@@ -180,7 +180,6 @@ Input should be restricted within valid range
 **Actual Result:**
 Product added with invalid value
 
-Screenshot:
 ![BUG-007](bug_screenshots/BUG-007.png)
 
 ## BUG_008 – Missing Wishlist Button in Product Detail
