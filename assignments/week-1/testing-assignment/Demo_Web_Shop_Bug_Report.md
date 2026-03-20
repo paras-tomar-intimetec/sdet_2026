@@ -252,8 +252,7 @@ Same generic error message should be displayed
 **Actual Result:**
 Different messages are shown
 
-Screenshot:
-![BUG-010](bug_screenshots/BUG-010.png)
+
 
 #  Final Notes
 
