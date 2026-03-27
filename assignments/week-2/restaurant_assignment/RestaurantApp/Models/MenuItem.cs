@@ -6,7 +6,6 @@ namespace RestaurantApp.Models
     {
         public string Name { get; set; }
         public double Price { get; set; }
-
         public Dictionary<string, int> Ingredients { get; set; } = new Dictionary<string, int>();
     }
 }
