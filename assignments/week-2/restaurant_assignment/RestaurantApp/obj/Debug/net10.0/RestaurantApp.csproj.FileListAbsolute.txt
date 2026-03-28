@@ -1,0 +1,15 @@
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\bin\Debug\net10.0\RestaurantApp.exe
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\bin\Debug\net10.0\RestaurantApp.deps.json
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\bin\Debug\net10.0\RestaurantApp.runtimeconfig.json
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\bin\Debug\net10.0\RestaurantApp.dll
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\bin\Debug\net10.0\RestaurantApp.pdb
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.AssemblyInfoInputs.cache
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.AssemblyInfo.cs
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.csproj.CoreCompileInputs.cache
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.sourcelink.json
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.dll
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\refint\RestaurantApp.dll
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.pdb
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\RestaurantApp.genruntimeconfig.cache
+C:\Users\paras.tomar\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\sdet_2026\assignments\week-2\restaurant_assignment\RestaurantApp\obj\Debug\net10.0\ref\RestaurantApp.dll
