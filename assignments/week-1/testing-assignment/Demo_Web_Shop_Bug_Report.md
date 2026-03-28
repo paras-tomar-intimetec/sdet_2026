@@ -9,6 +9,7 @@
 ##  Testing Type: Manual Testing
 
 #  Bug Summary
+
 * Total Bugs Identified: **10**
 
 #  Bug Details
@@ -23,6 +24,7 @@
 System accepts weak passwords consisting only of special characters.
 
 **Steps to Reproduce:**
+
 1. Go to Register page
 2. Enter valid user details
 3. Enter password as `@@@@@@`
@@ -48,6 +50,7 @@ Screenshot:
 Billing address fields accept invalid inputs (random text/numbers without validation).
 
 **Steps to Reproduce:**
+
 1. Add any product to cart
 2. Proceed to checkout
 3. Enter invalid values (e.g., random text in phone, invalid zip)
@@ -73,6 +76,7 @@ Screenshot:
 Camera category products do not have purchase option.
 
 **Steps to Reproduce:**
+
 1. Navigate to Electronics → Camera & Photo
 2. Observe product listings
 
@@ -96,6 +100,7 @@ Screenshot:
 Products show “Add to cart” but display “Out of stock” only after clicking.
 
 **Steps to Reproduce:**
+
 1. Navigate to product (e.g., Leather Handbag)
 2. Click “Add to cart”
 
@@ -119,6 +124,7 @@ Screenshot:
 Newsletter input field does not indicate required input type.
 
 **Steps to Reproduce:**
+
 1. Navigate to homepage
 2. Locate Newsletter section
 3. Observe input field
@@ -143,6 +149,7 @@ Screenshot:
 System shows email sent message without actual email delivery.
 
 **Steps to Reproduce:**
+
 1. Enter valid email in newsletter field
 2. Click Subscribe
 3. Observe success message
@@ -168,6 +175,7 @@ Screenshot:
 Length input field accepts extremely large values.
 
 **Steps to Reproduce:**
+
 1. Navigate to “Create Your Own Jewelry”
 2. Enter very large value (e.g., 9999999999)
 3. Click Add to cart
@@ -192,6 +200,7 @@ Screenshot:
 Wishlist option missing on certain product detail pages.
 
 **Steps to Reproduce:**
+
 1. Navigate to product page (e.g., Laptop)
 2. Observe available options
 
@@ -215,6 +224,7 @@ Screenshot:
 Cart removal process is not intuitive.
 
 **Steps to Reproduce:**
+
 1. Add product to cart
 2. Select remove checkbox
 3. Observe behavior without clicking update
@@ -239,6 +249,7 @@ Screenshot:
 Different error messages are shown for invalid email and wrong password, allowing user enumeration.
 
 **Steps to Reproduce:**
+
 1. Enter invalid email and attempt login
 2. Observe error message
 3. Enter valid email with wrong password
